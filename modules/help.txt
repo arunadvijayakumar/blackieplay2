@@ -1,1 +1,1 @@
-add git and pantheon 
+add git and pantheon added git congig
